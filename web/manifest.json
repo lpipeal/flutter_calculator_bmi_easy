@@ -1,6 +1,6 @@
 {
-    "name": "imc_calculator",
-    "short_name": "imc_calculator",
+    "name": "calculator_bmi_easy",
+    "short_name": "calculator_bmi_easy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
